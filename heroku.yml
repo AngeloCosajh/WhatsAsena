@@ -2,4 +2,4 @@ build:
   docker: 
       worker: Dockerfile
 run:
-   worker: bash Dockerfile
+   worker: bash /bin/sh -c npm\ start

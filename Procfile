@@ -1,1 +1,1 @@
-worker: bash /bin/sh -c npm\ start
+worker: bash start
